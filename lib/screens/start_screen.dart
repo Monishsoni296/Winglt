@@ -36,7 +36,7 @@ class _StartScreenState extends State<StartScreen> {
               children: [
                 Expanded(
                   child: Text('Winglt',
-                      textAlign: TextAlign.right,
+                      textAlign: TextAlign.center,
                       style: TextStyle(
                           color: Colors.white,
                           fontSize: 40.0,
