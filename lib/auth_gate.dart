@@ -1,6 +1,6 @@
-import 'package:buzz_chat/Login.dart';
-import 'package:buzz_chat/constant.dart';
-import 'package:buzz_chat/screens/contacts.dart';
+import 'package:winglt/Login.dart';
+import 'package:winglt/constant.dart';
+import 'package:winglt/screens/contacts.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';

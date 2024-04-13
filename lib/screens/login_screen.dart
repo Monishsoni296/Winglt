@@ -1,6 +1,6 @@
-import 'package:buzz_chat/constant.dart';
-import 'package:buzz_chat/forgetPass.dart';
-import 'package:buzz_chat/screens/registration_screen.dart';
+import 'package:winglt/constant.dart';
+import 'package:winglt/forgetPass.dart';
+import 'package:winglt/screens/registration_screen.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 

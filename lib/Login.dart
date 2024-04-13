@@ -1,5 +1,5 @@
-import 'package:buzz_chat/phoneAuth.dart';
-import 'package:buzz_chat/screens/login_screen.dart';
+import 'package:winglt/phoneAuth.dart';
+import 'package:winglt/screens/login_screen.dart';
 import 'package:flutter/material.dart';
 
 class LoginPage extends StatefulWidget {

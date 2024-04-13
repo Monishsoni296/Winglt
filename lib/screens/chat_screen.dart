@@ -1,5 +1,5 @@
-import 'package:buzz_chat/cloud_storage.dart';
-import 'package:buzz_chat/constant.dart';
+import 'package:winglt/cloud_storage.dart';
+import 'package:winglt/constant.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';

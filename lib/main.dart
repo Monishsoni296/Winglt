@@ -1,10 +1,10 @@
-import 'package:buzz_chat/forgetPass.dart';
-import 'package:buzz_chat/profile.dart';
-import 'package:buzz_chat/screens/contacts.dart';
-import 'package:buzz_chat/screens/login_screen.dart';
-import 'package:buzz_chat/screens/registration_screen.dart';
-import 'package:buzz_chat/screens/start_screen.dart';
-import 'package:buzz_chat/screens/welcome_screen.dart';
+import 'package:winglt/forgetPass.dart';
+import 'package:winglt/profile.dart';
+import 'package:winglt/screens/contacts.dart';
+import 'package:winglt/screens/login_screen.dart';
+import 'package:winglt/screens/registration_screen.dart';
+import 'package:winglt/screens/start_screen.dart';
+import 'package:winglt/screens/welcome_screen.dart';
 import 'package:firebase_app_check/firebase_app_check.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
