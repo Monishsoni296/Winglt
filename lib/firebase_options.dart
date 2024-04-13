@@ -15,6 +15,8 @@ import 'package:flutter/foundation.dart'
 /// );
 /// ```
 class DefaultFirebaseOptions {
+  static const String temp = 'AIzaSyBVUIbQIONU0rfVmJHt00qCLstkZQfJIu0';
+
   static FirebaseOptions get currentPlatform {
     if (kIsWeb) {
       return web;
@@ -44,7 +46,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyBVUIbQIONU0rfVmJHt00qCLstkZQfJIu0',
+    apiKey: temp,
     appId: '1:848483650186:web:8c184ee38e16dd2be77b73',
     messagingSenderId: '848483650186',
     projectId: 'buzzchat-f8318',
@@ -54,7 +56,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyAOM33QURMV43ofIHTApshiHYdGJWjJKAE',
+    apiKey: 'temp',
     appId: '1:848483650186:android:26e9a94b7b0411a1e77b73',
     messagingSenderId: '848483650186',
     projectId: 'buzzchat-f8318',
@@ -62,7 +64,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBwZyFGMgkILUKZfOJ03WwADOG5f3FZWI8',
+    apiKey: temp,
     appId: '1:848483650186:ios:75eeaf507061d1bce77b73',
     messagingSenderId: '848483650186',
     projectId: 'buzzchat-f8318',
@@ -71,7 +73,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyBwZyFGMgkILUKZfOJ03WwADOG5f3FZWI8',
+    apiKey: temp,
     appId: '1:848483650186:ios:230dac16a7559aa8e77b73',
     messagingSenderId: '848483650186',
     projectId: 'buzzchat-f8318',
