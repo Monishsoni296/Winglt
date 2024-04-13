@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "848483650186",
+    "project_id": "buzzchat-f8318",
+    "storage_bucket": "buzzchat-f8318.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848483650186:android:26e9a94b7b0411a1e77b73",
+        "android_client_info": {
+          "package_name": "com.example.buzz_chat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOM33QURMV43ofIHTApshiHYdGJWjJKAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
