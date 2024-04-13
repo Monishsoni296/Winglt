@@ -2,11 +2,15 @@
 
 Cloud-based chat application.
 
-<img src="assets/profile.jpg" width="50">
-
 WingIt is a cloud-based chat application built with Flutter for a beautiful and performant user experience across Android and iOS devices. It utilizes Firebase for seamless user authentication, secure data storage, and real-time communication management.\
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGNobGd6cGc4ajQwaTBvcDVpam1vc3Z0aTR1OTZ5eG5weXo2ejRzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9VJhJNRgTHH3ThzDPs/giphy.gif" width="250" >
 
+<img src="assets/start" height="400">
+<div style="display: flex;">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGNobGd6cGc4ajQwaTBvcDVpam1vc3Z0aTR1OTZ5eG5weXo2ejRzNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9VJhJNRgTHH3ThzDPs/giphy.gif" width="250" > | | <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTFtNWduOG8ydGVtYjR2bndvdnpjamozMXNlbGs4eGI4ZXhvMm82YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8f82dRKl9nc1zJqurW/giphy.gif" width="250" > 
+</div>
+
+
+| <img src="assets/chat_screen" height="400"> | <img src="assets/profile_page" height="400"> |
 
 **Features:**
 
